@@ -19,6 +19,8 @@ proxy.txt ===== 代理ip
 http://user:pass@192.168.2.7:7890
 socks5://user:pass@192.168.2.7:7890
 ```
+account.json ===== 最终配置
+自动生成也可以手工更改
 
 
 
