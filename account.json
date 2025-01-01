@@ -1,0 +1,16 @@
+[
+  {
+    "email": "11111@paydns.com",
+    "password": "Nhswq&%w",
+    "proxy": "socks5://127.0.0.1:7890",
+    "token": "eyJhbG",
+    "referralCode": "https://pipecdn.app/signup?ref=c2FuZHlAcG"
+  },
+  {
+    "email": "1111@gmail.com",
+    "password": "Nhswq&%w",
+    "proxy": "socks5://192.168.2.7:7890",
+    "token": "eyJhbGciOiJ",
+    "referralCode": "https://pipecdn.app/signup?ref=c2FuZHlAcG"
+  }
+]
